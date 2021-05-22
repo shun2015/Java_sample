@@ -11,7 +11,7 @@ public class Chapter07 {
 		}else {
 			System.out.println("とても遠い");
 		}
-		
+
 		String color = "yellow";
 		switch (color) {
 		case "red":
@@ -23,7 +23,7 @@ public class Chapter07 {
 		case "blue":
 			System.out.println("青信号");
 			break;
-		default: 
+		default:
 			System.out.println("点検中");
 		}
 	}

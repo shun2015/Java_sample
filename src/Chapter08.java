@@ -10,7 +10,7 @@ public class Chapter08 {
 		
 //		要素数が4の「int」配列を初期化
 //		配列のサイズ分ループして、要素を出力
-		int num2[] = {1, 4, 14, 25};
+		int num2[] = {1, 2, 3, 4};
 		for (int i = 0; i < num2.length; i++) {
 			System.out.println(num2[i]);
 		}

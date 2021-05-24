@@ -1,3 +1,4 @@
+//package パッケージ名;
 package classMethod.human;
 
 public class Human02 {
